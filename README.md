@@ -17,9 +17,9 @@ Following packages are used for 3D mesh reconstruction:
 - open3d==0.12.0
 
 With Anaconda, you can simply create a virtual environment and install dependencies with CONDA by:
-- `conda create -n semantic_nerf python=3.7`
-- `conda activate semantic_nerf`
-- `pip install -r requirements.txt`
+- `conda create -n NeurGMC python=3.7`
+- `conda activate NeurGMC`
+- `pip3 install -r requirements.txt`
 
 ## Datasets
-We mainly use [Replica](https://github.com/facebookresearch/Replica-Dataset) and [ScanNet](http://www.scan-net.org/) datasets for experiments.
+We mainly use [Replica](https://github.com/facebookresearch/Replica-Dataset) datasets for experiments.
