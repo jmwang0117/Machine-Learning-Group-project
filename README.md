@@ -1,6 +1,7 @@
 # Machine-Learning-Group-project
 NeurGMC:Unsupervised Semantic Segmentation in Neural Radiation Fields 
 # (Junming Wang and  yangqin Jiang)
+![image](https://user-images.githubusercontent.com/51500826/204769202-183db1f4-906c-4869-807e-e6c2055d7d03.png)
 
 ## Getting Started
 
