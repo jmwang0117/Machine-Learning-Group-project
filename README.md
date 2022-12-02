@@ -1,12 +1,12 @@
 # Machine-Learning-Group-project(HKU 2022)
-NeurGMC:Unsupervised Semantic Segmentation in Neural Radiation Fields 
+NeurGMC:Unsupervised Semantic Segmentation in Neural Radiation Fields </br>
 (Junming Wang and Yangqin Jiang)
-![image](https://user-images.githubusercontent.com/51500826/204769202-183db1f4-906c-4869-807e-e6c2055d7d03.png)
+
 
 ## Getting Started
 
 For flawless reproduction of our results, the Ubuntu OS 20.04 is recommended. The models have been tested using Python 3.7, Pytorch 1.6.0, CUDA10.1. Higher versions should also perform similarly.
-
+![image](https://user-images.githubusercontent.com/51500826/204769202-183db1f4-906c-4869-807e-e6c2055d7d03.png)
 ### Dependencies
 Main python dependencies are listed below:
 - Python >=3.7
