@@ -1,6 +1,6 @@
 # Machine-Learning-Group-project(HKU 2022)
 NeurGMC:Unsupervised Semantic Segmentation in Neural Radiation Fields </br>
-(Junming Wang and Yangqin Jiang)
+**(Junming Wang and Yangqin Jiang)**
 
 
 ## Getting Started
